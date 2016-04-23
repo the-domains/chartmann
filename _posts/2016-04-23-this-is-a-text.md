@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is a text
-datePublished: '2016-04-23T19:57:10.221Z'
-dateModified: '2016-04-23T19:56:47.199Z'
+datePublished: '2016-04-23T20:06:19.400Z'
+dateModified: '2016-04-23T19:58:33.867Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-this-is-a-text.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-this-is-a-text.md
-published: true
 url: this-is-a-text/index.html
 _type: Article
 
