@@ -1,7 +1,7 @@
 name: chartmann
 favicon: null
-layout_spectrum: 0.5818808344192803
-typography_spectrum: 0.3315008070785552
+layout_spectrum: 0.75125
+typography_spectrum: 0.63367
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#272c28'
+    - '#b9aaa7'
+    - '#424439'
+    - '#7e7867'
+    - '#e9dddd'
   brandStrength: 0.054470314644277096
   lightness: 0.9800929317716509
   saturation: 0.9886456977110356
