@@ -4,8 +4,14 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 21:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 21:18:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/chartmann</link>
+            <guid isPermaLink="false">e16132e2-0efe-4f85-b981-bcbff0efe11c</guid>
+            <pubDate>Sat, 23 Apr 2016 21:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#tgif - where will your next adventure take you?]]></title>
             <description><![CDATA[<article><h1>#tgif - where will your next adventure take you?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e151dc9d57ffc68bb51242722fa6bb1756a7b32.jpg"></article>]]></description>
