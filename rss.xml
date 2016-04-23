@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chartmann]]></title>
-        <description><![CDATA[chartmann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[CHRIS HARTMANN]]></title>
+        <description><![CDATA[CHRIS HARTMANN]]></description>
+        <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 19:57:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 20:05:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f3509c-0501-42f4-9f49-b69db8726a29.jpg">]]></description>
+            <link>https://thegrid.ai/chartmann/66b0952f-c257-40dd-9235-e9d3224595a2/index.html</link>
+            <guid isPermaLink="false">66b0952f-c257-40dd-9235-e9d3224595a2</guid>
+            <pubDate>Sat, 23 Apr 2016 20:04:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0559519-cc9b-4c0c-8637-f2f4b1e6429d.jpg">]]></description>
-            <link>undefinedthis-is-a-text/index.html</link>
+            <link>https://thegrid.ai/chartmann/this-is-a-text/index.html</link>
             <guid isPermaLink="false">e96dc253-ad59-4667-8c2f-b7d52b490c4b</guid>
             <pubDate>Sat, 23 Apr 2016 19:57:10 GMT</pubDate>
         </item>
