@@ -2,6 +2,7 @@ name: chartmann
 favicon: null
 layout_spectrum: 0.75125
 typography_spectrum: 0.63367
+title: CHRIS HARTMANN
 cta:
   domain: null
   bucket: null
