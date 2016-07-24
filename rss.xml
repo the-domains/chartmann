@@ -4,11 +4,18 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 18:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 18:50:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>GRAHAM</p>]]></description>
+            <link>https://thegrid.ai/chartmann/graham/index.html</link>
+            <guid isPermaLink="false">d4fea020-b5cd-4721-83d3-5d6d96468986</guid>
+            <pubDate>Sun, 24 Jul 2016 18:50:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5 Reasons Why Trump Will Win | MICHAEL MOORE]]></title>
-            <description><![CDATA[<article><h1>5 Reasons Why Trump Will Win | MICHAEL MOORE</h1><p>Friends: I am sorry to be the bearer of bad news, but I gave it to you straight last summer when I told you that Donald Trump would be the Republican nominee for president. And now I have even more awful, depressing news for you: Donald J.</p><img src="http://michaelmoore.s3.amazonaws.com/wp/uploads/2016/01/18164539/mike-glasses.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>5 Reasons Why Trump Will Win | MICHAEL MOORE</h1><p>Friends: I am sorry to be the bearer of bad news, but I gave it to you straight last summer when I told you that Donald Trump would be the Republican nominee for president. And now I have even more awful, depressing news for you: Donald J.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f1330351e0d5e8df7184f458cfb501e/noop.jpg?input=http%3A%2F%2Fmichaelmoore.s3.amazonaws.com%2Fwp%2Fuploads%2F2016%2F01%2F18164539%2Fmike-glasses.jpg"></article>]]></description>
             <link>http://michaelmoore.com/trumpwillwin/</link>
             <guid isPermaLink="false">2064a943-c2ad-418c-8a33-e302dd96c934</guid>
             <pubDate>Sun, 24 Jul 2016 18:48:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/</link>
             <guid isPermaLink="false">b48f28da-6610-40e3-a4be-5b75a1ed419c</guid>
             <pubDate>Sat, 23 Apr 2016 21:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>mythologische</p>]]></description>
-            <link>https://thegrid.ai/chartmann/mythologische/index.html</link>
-            <guid isPermaLink="false">d8a397a9-b7ad-4ce2-be50-e4c4f4dbfb42</guid>
-            <pubDate>Sat, 23 Apr 2016 21:14:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
