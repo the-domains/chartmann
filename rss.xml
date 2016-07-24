@@ -4,8 +4,15 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 18:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 18:48:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Reasons Why Trump Will Win | MICHAEL MOORE]]></title>
+            <description><![CDATA[<article><h1>5 Reasons Why Trump Will Win | MICHAEL MOORE</h1><p>Friends: I am sorry to be the bearer of bad news, but I gave it to you straight last summer when I told you that Donald Trump would be the Republican nominee for president. And now I have even more awful, depressing news for you: Donald J.</p><img src="http://michaelmoore.s3.amazonaws.com/wp/uploads/2016/01/18164539/mike-glasses.jpg"></article>]]></description>
+            <link>http://michaelmoore.com/trumpwillwin/</link>
+            <guid isPermaLink="false">2064a943-c2ad-418c-8a33-e302dd96c934</guid>
+            <pubDate>Sun, 24 Jul 2016 18:48:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spotify x Pitchfork: Inside Discovery - The FWA]]></title>
             <description><![CDATA[<article><h1>Spotify x Pitchfork: Inside Discovery - The FWA</h1><p>Enlisting music experts to explain the magic of Spotify's Discover Weekly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f51df875926f923689d9629fe060c39/noop.png?input=https%3A%2F%2Fthefwa.com%2Fdyn%2Fresources%2FCase_Model_Case%2Fthumbnail%2F8%2F7628%2F1469146175%2F5791632d38919fwa1076x672.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chartmann/mythologische/index.html</link>
             <guid isPermaLink="false">d8a397a9-b7ad-4ce2-be50-e4c4f4dbfb42</guid>
             <pubDate>Sat, 23 Apr 2016 21:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>expected</p>]]></description>
-            <link>https://thegrid.ai/chartmann/expected/index.html</link>
-            <guid isPermaLink="false">6395f8ee-aa04-4988-9df3-765775e68ef6</guid>
-            <pubDate>Sat, 23 Apr 2016 21:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
