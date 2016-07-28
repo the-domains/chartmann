@@ -4,15 +4,8 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:52:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Hidden Meanings Behind the Set Designs of the RNC and DNC]]></title>
-            <description><![CDATA[<article><h1>The Hidden Meanings Behind the Set Designs of the RNC and DNC</h1><p>Last night's opening of the Democratic Party's national convention was a little light on theatrics. That's not to say it was stale. Sarah Silverman burned the Bernie-or-bust zealots. Cory Booker brought down the fire and brimstone. Michelle Obama's oratory brilliance even impressed some Republicans.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15b8cc039e8b1dd7173ab2a1b6931a89/noop.jpg?input=http%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F07%2FGettyImages-579548202-1200x630.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/07/hidden-meanings-behind-set-designs-rnc-dnc/</link>
-            <guid isPermaLink="false">8ae92a52-4b76-4dbf-b8f9-21b38d3e5188</guid>
-            <pubDate>Thu, 28 Jul 2016 18:52:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[History tells us what may happen next with Brexit & Trump]]></title>
             <description><![CDATA[<article><h1>History tells us what may happen next with Brexit & Trump</h1><p>note: this essay contains a lot of links out, which are underlined. Consider them further reading or me backing up my opinions] It seems we're entering another of those stupid seasons humans impose on themselves at fairly regular intervals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17a4e80b287e73f6bda7a5f946bfd67a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*xsGEEfZxu6YbmHrPFd3gTg.jpeg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://michaelmoore.com/trumpwillwin/</link>
             <guid isPermaLink="false">2064a943-c2ad-418c-8a33-e302dd96c934</guid>
             <pubDate>Sun, 24 Jul 2016 18:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spotify x Pitchfork: Inside Discovery - The FWA]]></title>
+            <description><![CDATA[<article><h1>Spotify x Pitchfork: Inside Discovery - The FWA</h1><p>Enlisting music experts to explain the magic of Spotify's Discover Weekly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f51df875926f923689d9629fe060c39/noop.png?input=https%3A%2F%2Fthefwa.com%2Fdyn%2Fresources%2FCase_Model_Case%2Fthumbnail%2F8%2F7628%2F1469146175%2F5791632d38919fwa1076x672.png"></article>]]></description>
+            <link>https://thefwa.com/cases/spotify-x-pitchfork-inside-discovery</link>
+            <guid isPermaLink="false">51e894c8-c7ed-4c55-96b5-307ca2da3162</guid>
+            <pubDate>Sun, 24 Jul 2016 18:47:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
