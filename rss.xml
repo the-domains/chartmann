@@ -4,8 +4,15 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:52:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Mechanics Design]]></title>
+            <description><![CDATA[<article><h1>Why Mechanics Design</h1><p>The joy of being a Product Designer: at one company you are seen as an integral strategist and at another a pre-launch polish filter. Alex Schleifer, Airbnb's VP of Design, touched on this lack of shared definitions in a recent post [1]: > Outside of design, some have knowledge of UI and UX, b...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65a5e1b563ba33cdc172942a49f403ab/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-b-903906-200-fqjgqeneyyyumrfcgmojmoakankdbjto.jpeg"></article>]]></description>
+            <link>https://design.quora.com/Why-Mechanics-Design</link>
+            <guid isPermaLink="false">fdb98b04-5666-48cf-9b35-c7d77ad37f6c</guid>
+            <pubDate>Thu, 28 Jul 2016 18:52:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-19.jpg?v=1469623428">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BHQBbZVgAQ0/?taken-by=chartmann</link>
             <guid isPermaLink="false">2b481469-a6e8-43f9-abef-3b72ac30e512</guid>
             <pubDate>Sun, 24 Jul 2016 13:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The latest Tweets from Christian Hartmann (@chartmann). Managing Director | Strategy at @webguerillas. Partner & Co-Founder of Design made in Germany (@dmig). Based in Munich | Germany. Munich, Germany</p>]]></description>
-            <link>https://twitter.com/chartmann</link>
-            <guid isPermaLink="false">bb4e6c31-604b-43f8-9863-add8fdde028e</guid>
-            <pubDate>Sun, 24 Jul 2016 12:42:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
