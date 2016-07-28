@@ -4,8 +4,15 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:52:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Book Apart, Practical SVG]]></title>
+            <description><![CDATA[<article><h1>A Book Apart, Practical SVG</h1><p>foreword by Val Head | Harness the power and possibilities of crisp, performance-efficient SVG with Chris Coyier. From software basics to build tools to optimization, you'll learn techniques for a solid workflow. Go deeper: create icon systems, explore sizing and animation, and understand when and how to implement fallbacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d927ee40434864608aea8e782604c8d2/noop.jpg?input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0051%2F7692%2Fproducts%2FABA-hero-19_large.jpg%3Fv%3D1469623428"></article>]]></description>
+            <link>https://abookapart.com/products/practical-svg</link>
+            <guid isPermaLink="false">238251e8-e40e-441f-93b3-744d5df40b6d</guid>
+            <pubDate>Thu, 28 Jul 2016 18:52:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Mechanics Design]]></title>
             <description><![CDATA[<article><h1>Why Mechanics Design</h1><p>The joy of being a Product Designer: at one company you are seen as an integral strategist and at another a pre-launch polish filter. Alex Schleifer, Airbnb's VP of Design, touched on this lack of shared definitions in a recent post [1]: > Outside of design, some have knowledge of UI and UX, b...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65a5e1b563ba33cdc172942a49f403ab/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-b-903906-200-fqjgqeneyyyumrfcgmojmoakankdbjto.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BH7xu9uAIaX/?taken-by=chartmann</link>
             <guid isPermaLink="false">a4f25519-edb6-41f6-8f3f-852c5e2a1792</guid>
             <pubDate>Sun, 24 Jul 2016 18:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Someday everything will make perfect sense. So for now, laugh at the confusion, smile through the tears and keep reminding yourself that everything happens for a reason.]]></title>
-            <description><![CDATA[<article><h1>Someday everything will make perfect sense. So for now, laugh at the confusion, smile through the tears and keep reminding yourself that everything happens for a reason.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97fafbdeff326d41897bbdb35a202962/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13561932_256231964761040_1572584268_n.jpg%3Fig_cache_key%3DMTI4MzUzMjE3NDQ3NzIzMTE1Ng%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BHQBbZVgAQ0/?taken-by=chartmann</link>
-            <guid isPermaLink="false">2b481469-a6e8-43f9-abef-3b72ac30e512</guid>
-            <pubDate>Sun, 24 Jul 2016 13:00:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
