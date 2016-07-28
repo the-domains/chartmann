@@ -4,8 +4,15 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 18:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 18:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.awwwards.com/bundles/tvweb/images/book/2016/case-studies/parallax-layer1.png">]]></description>
+            <link>https://thegrid.ai/chartmann/a16e251c-d33c-442a-8a91-48906dc86ac2/index.html</link>
+            <guid isPermaLink="false">a16e251c-d33c-442a-8a91-48906dc86ac2</guid>
+            <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[History tells us what may happen next with Brexit & Trump]]></title>
             <description><![CDATA[<article><h1>History tells us what may happen next with Brexit & Trump</h1><p>note: this essay contains a lot of links out, which are underlined. Consider them further reading or me backing up my opinions] It seems we're entering another of those stupid seasons humans impose on themselves at fairly regular intervals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17a4e80b287e73f6bda7a5f946bfd67a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*xsGEEfZxu6YbmHrPFd3gTg.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/chartmann</link>
             <guid isPermaLink="false">e16132e2-0efe-4f85-b981-bcbff0efe11c</guid>
             <pubDate>Sat, 23 Apr 2016 21:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#tgif - where will your next adventure take you?]]></title>
-            <description><![CDATA[<article><h1>#tgif - where will your next adventure take you?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e151dc9d57ffc68bb51242722fa6bb1756a7b32.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BEgg5zIipGA/?taken-by=chartmann</link>
-            <guid isPermaLink="false">118c74cb-eb80-4add-8f6e-33451765a116</guid>
-            <pubDate>Sat, 23 Apr 2016 21:15:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
