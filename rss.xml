@@ -4,11 +4,18 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 07:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>A curated blog brought to you by the designers and design lovers at Automattic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7ea794fc535c98e99b9d76b64a9b9fb/noop.png?input=https%3A%2F%2Fi2.wp.com%2Fdesigndotblog.files.wordpress.com%2F2016%2F08%2Fdesignblog.png%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://design.blog/</link>
+            <guid isPermaLink="false">233ce0cc-72d0-4510-8e2e-3984be80413a</guid>
+            <pubDate>Mon, 22 Aug 2016 07:15:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[98 personal data points that Facebook uses to target ads to you]]></title>
-            <description><![CDATA[<article><h1>98 personal data points that Facebook uses to target ads to you</h1><p>Say you're scrolling through your Facebook Newsfeed and you encounter an ad so eerily well-suited, it seems someone has possibly read your brain. Maybe your mother's birthday is coming up, and Facebook's showing ads for her local florist. Or maybe you just made a joke aloud about wanting a Jeep, and Instagram's promoting Chrysler dealerships.</p><img src="https://images.washingtonpost.com/?url=http://img.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/08/0817_FbookAds_SS.jpg&w=1484&op=resize&opt=1&filter=antialias"></article>]]></description>
+            <description><![CDATA[<article><h1>98 personal data points that Facebook uses to target ads to you</h1><p>Say you're scrolling through your Facebook Newsfeed and you encounter an ad so eerily well-suited, it seems someone has possibly read your brain. Maybe your mother's birthday is coming up, and Facebook's showing ads for her local florist. Or maybe you just made a joke aloud about wanting a Jeep, and Instagram's promoting Chrysler dealerships.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccf45c6bd8271602bfa83f65edf9453d/noop?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160820130157%2Fhttps%3A%2F%2Fimages.washingtonpost.com%2F%3Furl%3Dhttp%3A%2F%2Fimg.washingtonpost.com%2Fnews%2Fthe-intersect%2Fwp-content%2Fuploads%2Fsites%2F32%2F2016%2F08%2F0817_FbookAds_SS.jpg%26w%3D1484%26op%3Dresize%26opt%3D1%26filter%3Dantialias"></article>]]></description>
             <link>https://www.washingtonpost.com/news/the-intersect/wp/2016/08/19/98-personal-data-points-that-facebook-uses-to-target-ads-to-you/</link>
             <guid isPermaLink="false">dc9c13f5-19fd-4a22-8c48-3f97b1ae10f5</guid>
             <pubDate>Mon, 22 Aug 2016 07:15:26 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>VERSUS</h1><p>VERSUS - A film by ManvsMachine for Maxon. Made with Cinema 4D Release 18. See full project here: http://mvsm.com/project/versus - Concept, Direction & Animation: ManvsMachine Audio: Resonate</p></article>]]></description>
             <link>https://vimeo.com/176337266</link>
             <guid isPermaLink="false">f342516e-8831-47dd-ae3c-f535c23d6323</guid>
-            <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.awwwards.com/bundles/tvweb/images/book/2016/case-studies/parallax-layer1.png">]]></description>
-            <link>https://thegrid.ai/chartmann/a16e251c-d33c-442a-8a91-48906dc86ac2/index.html</link>
-            <guid isPermaLink="false">a16e251c-d33c-442a-8a91-48906dc86ac2</guid>
             <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
         </item>
     </channel>
