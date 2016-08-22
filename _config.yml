@@ -1,20 +1,4 @@
-name: chartmann
-favicon: null
-layout_spectrum: 0.99833
 typography_spectrum: 0.70045
-title: WELCOME
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#191121'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99833
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: chartmann
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: THE BEST ADVERTISING ISN'T ADVERTISING
 purpose: []
