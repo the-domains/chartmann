@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-22T07:55:59.192Z'
+datePublished: '2016-08-22T07:59:33.702Z'
 author: []
 via: {}
-dateModified: '2016-08-22T07:55:50.092Z'
+dateModified: '2016-08-22T07:59:33.264Z'
 title: A day in the Alps – from Lake Walchen to Mittenwald
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   commercial centre of Augsburg, to the north, and Innsbruck to the south-east,
   beyond which is the Brenner Pass and the route to Lombardy, another region
   with a rich commercial past and present. 
-starred: true
 sourcePath: _posts/2016-08-22-a-day-in-the-alps-from-lake-walchen-to-mittenwald.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
