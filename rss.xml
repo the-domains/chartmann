@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WELCOME]]></title>
-        <description><![CDATA[WELCOME]]></description>
+        <title><![CDATA[THE BEST ADVERTISING ISN'T ADVERTISING]]></title>
+        <description><![CDATA[THE BEST ADVERTISING ISN'T ADVERTISING]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 07:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 07:24:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[John Maeda, Why Automattic?]]></title>
+            <description><![CDATA[<article><h1>John Maeda, Why Automattic?</h1><p>At some point in my career, I stopped caring about Open Source. I don't know exactly when. But I know that when I met Matt Mullenweg just a few months ago and he told me how much he cared about Open Source ... well, at first I didn't get it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e65285550528cd6dc5ba4d8388906a4/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fdesigndotblog.files.wordpress.com%2F2016%2F08%2Fjm.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>https://design.blog/2016/08/08/john-maeda/</link>
+            <guid isPermaLink="false">eab145e4-c91f-474c-9c93-eb2e0a31226b</guid>
+            <pubDate>Mon, 22 Aug 2016 07:24:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>A curated blog brought to you by the designers and design lovers at Automattic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7ea794fc535c98e99b9d76b64a9b9fb/noop.png?input=https%3A%2F%2Fi2.wp.com%2Fdesigndotblog.files.wordpress.com%2F2016%2F08%2Fdesignblog.png%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://design.quora.com/Why-Mechanics-Design</link>
             <guid isPermaLink="false">fdb98b04-5666-48cf-9b35-c7d77ad37f6c</guid>
             <pubDate>Thu, 28 Jul 2016 18:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-19.jpg?v=1469623428">]]></description>
-            <link>https://thegrid.ai/chartmann/575b80d6-50bc-4b65-ac07-df39e0f4aab8/index.html</link>
-            <guid isPermaLink="false">575b80d6-50bc-4b65-ac07-df39e0f4aab8</guid>
-            <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
