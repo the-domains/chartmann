@@ -1,4 +1,3 @@
-layout_spectrum: 0.2004006104543805
 typography_spectrum: 0.26495714602060616
 color:
   brandColors:
@@ -15,10 +14,15 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2004006104543805
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Christian Hartmann
+  email: hello@chrishartmann.com
+  url: 'http://www.chrishartmann.com'
 name: chartmann
 cta:
   domain: null
