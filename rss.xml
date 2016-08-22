@@ -4,7 +4,7 @@
         <description><![CDATA[WELCOME]]></description>
         <link>https://thegrid.ai/chartmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 07:15:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chartmann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://design.blog/</link>
             <guid isPermaLink="false">233ce0cc-72d0-4510-8e2e-3984be80413a</guid>
             <pubDate>Mon, 22 Aug 2016 07:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Klarälven River]]></title>
+            <description><![CDATA[<article><h1>The Klarälven River</h1><p>Travelling down the Klarälven River in Sweden, for one week, on a log raft. Produced by Alastair Humphreys and Haglöfs. www.alastairhumphreys.com www.haglofs.com Music by Temujin Doran Violin - Elena Moon Park - http://www.rabbitdays.com/ Vocals & Shruti box - Saideh Eftekhari - https://soundcloud.com/saideh-eftekhari If you enjoy wild camping you have a responsibility to leave the wilderness as pristine as you found it.</p></article>]]></description>
+            <link>https://vimeo.com/173365667</link>
+            <guid isPermaLink="false">d6740633-51c2-43ba-a9c8-89800f8c419f</guid>
+            <pubDate>Mon, 22 Aug 2016 07:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[98 personal data points that Facebook uses to target ads to you]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-19.jpg?v=1469623428">]]></description>
             <link>https://thegrid.ai/chartmann/575b80d6-50bc-4b65-ac07-df39e0f4aab8/index.html</link>
             <guid isPermaLink="false">575b80d6-50bc-4b65-ac07-df39e0f4aab8</guid>
-            <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERSUS]]></title>
-            <description><![CDATA[<article><h1>VERSUS</h1><p>VERSUS - A film by ManvsMachine for Maxon. Made with Cinema 4D Release 18. See full project here: http://mvsm.com/project/versus - Concept, Direction & Animation: ManvsMachine Audio: Resonate</p></article>]]></description>
-            <link>https://vimeo.com/176337266</link>
-            <guid isPermaLink="false">f342516e-8831-47dd-ae3c-f535c23d6323</guid>
             <pubDate>Thu, 28 Jul 2016 18:46:13 GMT</pubDate>
         </item>
     </channel>
